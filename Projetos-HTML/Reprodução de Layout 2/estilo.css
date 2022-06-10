@@ -1,0 +1,97 @@
+
+#Area-Topo {
+    font-family: "Poppins",Arial,sans-serif;
+    font-size: 16px;
+    margin-top: 25px;
+    z-index: 1;
+    float: right;
+    clear: both;
+    position: relative;
+}
+
+#Area-Topo ul {
+    text-align: right;
+    margin-right: 390px;
+    display: inline;
+    padding-left: 550px;
+}
+
+#Area-Topo ul li {
+    font-family: "Poppins",Arial,sans-serif;
+    display: inline;
+    list-style-type: none;
+    margin: 0px 20px;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+#Area-Topo ul li:hover {
+    color: #0075F6;
+    text-decoration: underline;
+}
+
+#Logo {   
+    display: inline;
+    margin-left: 0px;
+    margin-right: 0;
+    font-size: 24px;
+}
+
+#bloco {
+    background-color: #77B7FF;
+    width: 740px;
+    height: 600px;
+    z-index: 0;
+    margin-left: 1160px;
+    margin-top: 0;
+}
+
+
+#Area-Texto-banner {
+    font-size: 60px;
+    font-family: "Poppins",Arial,sans-serif;
+    color: #000;
+    margin-top: -350px;
+    margin-left: 400px;
+    width: 500px;
+    float: left;
+    clear: both;
+    position: relative;   
+    z-index: 3; 
+}
+
+#texto-baner1 {
+    font-size: 14px;
+    color: #0075F6;
+    font-weight: 700;
+}
+
+#texto-baner2 {
+    font-weight: 800;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+#texto-baner3 {
+    font-size: 30px;
+    margin: 0 5 24px;
+}
+
+#Area-Texto-banner span {
+    color: #0075f6;
+}
+
+#img-principal {
+    margin-top: -480px;
+    margin-left: -300px;
+    z-index: 2;
+}
+
+#botao-baner {
+    color: #0075F6;
+    font-size: 12px;
+    padding: 5px 20px;
+    border: 1px solid #0075F6;
+    display: inline;
+    cursor: pointer;
+}
